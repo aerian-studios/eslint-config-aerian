@@ -6,7 +6,8 @@ module.exports = {
         "plugin:prettier/recommended",
         "prettier/react"
     ],
-    plugins: ["jest", "prettier"],
+    plugins: ["jest", "prettier", "import"],
+    parser: "babel-eslint",
     parserOptions: {
         sourceType: "module",
         ecmaVersion: 2018,
