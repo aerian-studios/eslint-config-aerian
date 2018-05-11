@@ -1,0 +1,22 @@
+{
+    "name": "eslint-config-aerian",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "dependencies": {
+        "eslint-config-es": "^0.9.1",
+        "eslint-config-prettier": "^2.9.0",
+        "eslint-plugin-import": "^2.11.0",
+        "eslint-plugin-jest": "^21.15.1",
+        "eslint-plugin-prettier": "^2.6.0",
+        "eslint-plugin-react": "^7.7.0"
+    },
+    "peerDependencies": {
+        "eslint": ">=3.6",
+        "prettier": "*"
+    },
+    "devDependencies": {
+        "eslint": "^4.19.1",
+        "prettier": "1.12.1"
+    }
+}
