@@ -6,10 +6,10 @@ To install, run:
 
 ```sh
 #npm
-npm i -D eslint prettier aerian-studios/eslint-config-aerian
+npm i -D eslint prettier eslint-config-aerian
 
 #yarn
-yarn add --dev eslint prettier aerian-studios/eslint-config-aerian
+yarn add --dev eslint prettier eslint-config-aerian
 ```
 
 To use it, create the following .eslintrc.json:
