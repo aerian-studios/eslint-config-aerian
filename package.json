@@ -1,9 +1,10 @@
 {
     "name": "eslint-config-aerian",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "main": "index.js",
     "license": "MIT",
     "dependencies": {
+        "babel-eslint": "^8.2.3",
         "eslint-config-es": "^0.9.1",
         "eslint-config-prettier": "^2.9.0",
         "eslint-plugin-import": "^2.11.0",
