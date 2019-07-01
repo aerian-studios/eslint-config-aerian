@@ -1,3 +1,5 @@
+## :warning: This config is deprecated. Use [@aerian/eslint-config](https://github.com/aerian-studios/eslint-config) instead. :warning:
+
 # eslint-config-aerian
 
 This is a sharable ESLint config which enforces a strict ES6+ style.
